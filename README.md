@@ -1,2 +1,2 @@
 # MDline
-MDline is a markdown library with examples and also with a mdconfig.json
+MDline is a markdown library with examples and also with a `mdconfig.json`
