@@ -1,0 +1,15 @@
+{
+    markdowntype: "markdown-github",
+    markdownversion: "2.2.0",
+    markdownextensions: [
+        "markdown.extensions.extra",
+        "markdown.extensions.codehilite",
+        "markdown.extensions.toc",
+        "markdown.extensions.tables",
+        "markdown.extensions.fenced_code",
+        "markdown.extensions.attr_list",
+        "markdown.extensions.admonition",
+        "markdown.extensions.smarty",
+        "markdown.extensions.meta"
+    ]
+}
